@@ -20,7 +20,7 @@
             <button class="btn border btn-outline-light text-dark py-2 px-3 tombol" onclick="filterKategori('all')">All Collections</button>
             <button class="btn border btn-outline-light text-dark py-2 px-3 tombol" onclick="filterKategori('Minimalist Basics')">Minimalist Basics</button>
             <button class="btn border btn-outline-light text-dark py-2 px-3 tombol" onclick="filterKategori('Summer Essentials')">Summer Essentials</button>
-            <button class="btn border btn-outline-light text-dark py-2 px-3 tombol" onclick="filterKategori('Modern Formalwear  ')">Modern Formalwear</button>
+            <button class="btn border btn-outline-light text-dark py-2 px-3 tombol" onclick="filterKategori('Modern Formalwear')">Modern Formalwear</button>
         </div>
     </div>
     <div class="row">
