@@ -146,7 +146,7 @@
             <p class="fs-5" style="font-family: sans-serif">Have questions about our collections or interested in collaboration opportunities? We'd love to hear from you.</p>
             <br>
         </div>
-        <div id="message" class="text-start d-flex justify-content-center text-start">
+        <div id="message" class="text-start d-flex justify-content-center">
             <form action="#" class="d-flex align-items-start flex-column text-start w-50">
                 <label for="name">NAMA</label>
                 <input type="text" class="form-control input-bawah" id="name">
